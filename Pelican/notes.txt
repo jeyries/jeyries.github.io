@@ -1,5 +1,0 @@
-
-pelican content -o .. -s pelicanconf.py
-
-git push origin master
-
