@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Pimp my app! Part 6: using Flow or Coordinator pattern"
 date: 2018-10-06
 ---

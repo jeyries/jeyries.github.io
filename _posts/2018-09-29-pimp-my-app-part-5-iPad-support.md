@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Pimp my app! Part 5: Supporting the iPad"
 date: 2018-09-29
 ---

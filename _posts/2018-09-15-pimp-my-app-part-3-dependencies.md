@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Pimp my app! Part 3: Dependencies"
 date: 2018-09-15
 ---

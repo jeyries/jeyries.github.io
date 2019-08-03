@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Pimp my app!"
 date: 2018-09-01
 ---

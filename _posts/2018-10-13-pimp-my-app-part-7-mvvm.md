@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Pimp my app! Part 7: MVVM"
 date: 2018-10-13
 ---

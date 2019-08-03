@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Competitive Programming] Pokemons"
 date: 2018-11-10
 ---
