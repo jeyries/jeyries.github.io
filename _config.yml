@@ -5,3 +5,10 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: minima
 show_excerpts: false
+header_pages:
+  - cv.html
+minima:
+  social_links:
+    twitter: jeyries
+    github: jeyries
+    linkedin: julieneyries
