@@ -8,7 +8,7 @@ date: 2018-10-27
 
 Storyboards lets you instantiate your view controller with a specific identifier. This identifier is a unique string.
 
- ![Storyboard identifiers](storyboard-id.png)
+ ![Storyboard identifiers](/images/storyboard-id.png)
 
 The problem with that is that you can have a wrong or obsolete identifiers. Furthermore Swift is a strongly typed language so it would be nice to also have the precise type of the view controller, instead of a generic `UIViewController`.
 

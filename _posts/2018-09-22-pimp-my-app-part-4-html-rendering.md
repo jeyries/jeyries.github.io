@@ -20,6 +20,7 @@ Here I had choosen to use a version of the Mustache library for performing this 
 
 The template looks like that:
 
+{% raw %}
 ```html
 <html>
 <style type="text/css">
@@ -38,6 +39,7 @@ h2 {
 </body>
 </html>
 ```
+{% endraw %}
 
 First problem, the GRMustache.swift library is not maintened anymore and does not compile with Swift 4.
 Ok, I can switch back to the GRMustache library in Objective-C.

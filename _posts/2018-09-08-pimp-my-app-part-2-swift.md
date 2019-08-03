@@ -10,7 +10,7 @@ First thing to do after opening the project is to change the build setting SWIFT
 
 Then Xcode will flag compilation error, warn about deprecated stuff, just proceed and eliminate the problems one by one.
 
- ![swift migration errors: do not panic ...](swift migration errors.png)
+ ![swift migration errors: do not panic ...](/images/swift migration errors.png)
 
 Once the code compiles and run in the simulator, you can continue by adopting the latest tools that
 Swift 4 provide, for example:

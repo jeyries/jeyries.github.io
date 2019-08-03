@@ -12,6 +12,7 @@ So, it is 2018 now and I stumbled upon the source code of this app on my disk. T
 
 However, I wanted to had a look on the code I had written 3 year before and soon I opened the project in Xcode ... The rest of this post will be how I have taken this code and refactored it with the knowledge I have accumulated in the last 3 years of Swift development.
 
-<img src="/images/fishionary-master.png" width="50%" alt="Fishionary - List view"/>
-<img src="/images/fishionary-detail.png" width="50%" alt="Fishionary - Detail view"/>
+![Fishionary - List view](/images/fishionary-master.png){: .center-image }
+![Fishionary - Detail view](/images/fishionary-detail.png){: .center-image }
+
 
