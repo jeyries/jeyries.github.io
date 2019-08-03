@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Pimp my app! Part 4: HTML Rendering"
 date: 2018-09-22
 ---

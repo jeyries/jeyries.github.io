@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Time Machine, Core Storage and Disk Utility"
 date: 2016-01-02
 ---

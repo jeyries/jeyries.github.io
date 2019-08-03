@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Pimp my app! Part 9: Storyboard identifiers"
 date: 2018-10-27
 ---

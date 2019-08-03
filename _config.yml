@@ -1,7 +1,7 @@
 name: Julien Eyriès home page
-title: Julien Eyriès home page
-description: A home page for Julien Eyriès
+title: Julien Eyriès
+description: My home page
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-architect
-show_downloads: false
+theme: minima
+show_excerpts: false

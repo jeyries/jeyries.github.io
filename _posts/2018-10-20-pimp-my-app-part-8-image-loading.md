@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Pimp my app! Part 8: Image Loading"
 date: 2018-10-20
 ---

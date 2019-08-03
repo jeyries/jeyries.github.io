@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Pimp my app! Part 2: From Swift 2 to Swift 4"
 date: 2018-09-08
 ---
