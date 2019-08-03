@@ -20,6 +20,8 @@ Returning on the website, I could see in the ranking table that the best score w
 
 For sure, an optimal solution would be to enumerate all the teams that can be created with 6 Pokemons. This is called brute-forcing the problem, could it be done here ?
 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
 How many [combinations](https://en.wikipedia.org/wiki/Combination) of 6 pokemons out of 150 are they ? 
 
 If the set has n elements, the number of k-combinations is equal to the binomial coefficient : 
