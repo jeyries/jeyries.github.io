@@ -4,6 +4,8 @@ title: "Pimp my app! Part 3: Dependencies"
 date: 2018-09-15
 ---
 
+In this article, I explain how to improve the management of the app dependencies or third party frameworks.
+
 # Dependencies
 
 Depeendencies in the project were managed by CocoaPod. It is a pretty capable dependency manager for iOS projects, though I may prefer to use Carthage these days. Carthage is more lightweight and gives more control to the developer.
@@ -42,12 +44,14 @@ github "Darkseal/DownPicker"
 
 Some useful Carthage commands:
 
-    ::sh
-    carthage update --no-build 
+ ```sh
+carthage update --no-build 
+```
 
 This command will make Carthage scan the dependencies in `Cartfile` and update the `Cartfile.resolved` .
 
-    ::sh
-    carthage bootstrap --cache-builds --platform iOS
+```sh
+carthage bootstrap --cache-builds --platform iOS
+```
 
 This command will actually build the dependencies found in `Cartfile.resolved` .

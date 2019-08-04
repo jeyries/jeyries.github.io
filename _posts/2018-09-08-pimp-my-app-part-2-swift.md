@@ -4,6 +4,8 @@ title: "Pimp my app! Part 2: From Swift 2 to Swift 4"
 date: 2018-09-08
 ---
 
+In this article, I explain how I update my app to the latest Swift version.
+
 Automatic migration from Swift 2 to Swift 4 is not available. Don't worry you can still get some help and Xcode does quite a good job at hinting you in order to perform this update.
 
 First thing to do after opening the project is to change the build setting SWIFT_VERSION to the latest Swift version (here Swift 4.2).

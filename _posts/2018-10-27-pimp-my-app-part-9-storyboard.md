@@ -4,6 +4,8 @@ title: "Pimp my app! Part 9: Storyboard identifiers"
 date: 2018-10-27
 ---
 
+Swift is a strongly typed language. A good practice is to replace the strings that serve as identifiers in UIKit with some proper Swift types.
+
 # Storyboard identifiers
 
 Storyboards lets you instantiate your view controller with a specific identifier. This identifier is a unique string.

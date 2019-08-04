@@ -4,6 +4,8 @@ title: "[Competitive Programming] Pokemons"
 date: 2018-11-10
 ---
 
+PROBLEM: In the first generation of Pokemon, there are 164 different attacks. Each Pokemon can learn a number of attacks. As a Pokemon trainer, you want to be the team of 6 Pokemon whose union of attacks they can learn is maximum.
+
 # The problem
 
 Located here: [http://primers.xyz/3](http://primers.xyz/3). The website is in french, here is a quick translation :

@@ -4,9 +4,10 @@ title: "Pimp my app! Part 8: Image Loading"
 date: 2018-10-20
 ---
 
+You should do the loading and decoding of images in the background.
+
 # Image Loading
 
-You should do the loading and decoding of images in the background.
 There is plenty of library for doing that, for example:
 
 - [SDWebImage](https://github.com/SDWebImage/SDWebImage)

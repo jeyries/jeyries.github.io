@@ -4,18 +4,17 @@ title: "Pimp my app! Part 7: MVVM"
 date: 2018-10-13
 ---
 
+MVC (Model - View - Controller) is a good and mature paradigm. Usually this is a good starting point for a new screen. However, as view complexity increase over time, it is sometimes good to extract some of the presentation logic of the view controller into an other object, the view model. 
+
 # MVVM
 
 Model - View - View Model
 
+Benefits:
 - reduce view controller size
 - improve testability
 
-Here is a brief summary:
-
-MVC (Model - View - Controller) is a good and mature paradigm. Usually this is a good starting point for a new screen.
-However, as view complexity increase over time, it is sometimes good to extract some of the presentation logic of the view controller into an other object, the view model. 
-As the name implies it is a model which purpose is to compute and store all the information needed for the view: 
+As the name implies the view model is a model which purpose is to compute and store all the information needed for the view: 
 strings or attributed strings for label, provide image for image view, etc ..
 This paradigm is called MVVM (Model - View - ViewModel)
 

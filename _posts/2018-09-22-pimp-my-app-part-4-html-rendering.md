@@ -4,11 +4,7 @@ title: "Pimp my app! Part 4: HTML Rendering"
 date: 2018-09-22
 ---
 
-# Web views
-
-Web view has been the usual solution when you want to render text with formatting and links.
-
-However UIWebView has been deprecated since a long time, it is time to switch. WKWebView is a no brainer, the change is easy. 
+A web view has been the usual solution when you want to render text with formatting and links. However UIWebView has been deprecated since a long time, it is time to switch. WKWebView is a no brainer, the change is easy. 
 
 Furthermore, in my case, I was using a web view just for rendering some attributed text with sometime a link in it, maybe something cleaner can be done ? Also, web view take some time to display at first, this could be replaced by an NSAttributedString.
 

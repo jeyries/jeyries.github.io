@@ -4,9 +4,9 @@ description: My home page
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: minima
-show_excerpts: false
+show_excerpts: true
 header_pages:
-  - cv.html
+  - about.html
 minima:
   social_links:
     twitter: jeyries

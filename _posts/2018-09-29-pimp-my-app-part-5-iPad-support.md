@@ -4,6 +4,8 @@ title: "Pimp my app! Part 5: Supporting the iPad"
 date: 2018-09-29
 ---
 
+Sometimes you need to take a decision about which devices or form factor your app will support. This can have a big impact on test and development time.
+
 # Supporting the iPad
 
 The initial customer for this app wanted to support the iPad. It could be a perfect valid choice, even if we could wonder if people that go fishing takes their iPad with them. 

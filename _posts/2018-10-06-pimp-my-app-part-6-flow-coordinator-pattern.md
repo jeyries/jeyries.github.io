@@ -4,6 +4,8 @@ title: "Pimp my app! Part 6: using Flow or Coordinator pattern"
 date: 2018-10-06
 ---
 
+The "Massive View Controller" has been a problem for every iOS developer starting to develop on the platform. Fortunately a set of patterns and good practices can help to limit the size and scope of your wiew controllers.
+
 # using Flow or Coordinator pattern instead of segue 
 
 Apple introduce segue (`UIStoryboardSegue`) alongside storyboards in iOS 5. At first I was quite puzzled by these new tools. I was doing all my view in Objective-C code at that time, and stayed with this practice for quite some time. Even when I finally switched to storyboard, I found the segue concept quite strange, let's examine the pro and cons :
