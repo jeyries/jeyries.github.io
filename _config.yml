@@ -6,7 +6,7 @@ permalink: /blog/:year/:month/:day/:title
 theme: minima
 show_excerpts: true
 header_pages:
-  - about.html
+  - about.md
 minima:
   social_links:
     twitter: jeyries
