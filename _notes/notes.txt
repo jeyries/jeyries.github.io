@@ -3,3 +3,9 @@ https://jekyll-themes.com/scriptor-jekyll/
 
 https://www.netlify.com/
 
+====
+
+bundle update 
+bundle install --path vendor/bundle
+bundle exec jekyll build --watch
+
