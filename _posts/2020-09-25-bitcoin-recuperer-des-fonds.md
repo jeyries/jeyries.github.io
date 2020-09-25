@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Bitcoin] Comment récupérer des fonds à partir d'un fichier wallet.dat de Bitcoin Core sans avoir à télécharger toute la blockchain ?"
-date: 2019-09-02
+date: 2020-09-25
 ---
 
 Résumé: Vous avez envoyé des fonds à une adresse de réception de Bitcoin Core. Malheureusement il vous reste encore plus d'une semaine pour synchroniser la blockchain. Et vous ne voulez pas attendre une synchronisation complète de la blockchain avant de transférer vos fonds ..

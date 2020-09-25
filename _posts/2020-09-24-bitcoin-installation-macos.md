@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Bitcoin] Installer le logiciel Bitcoin sur macOS"
-date: 2019-09-01
+date: 2020-09-24
 ---
 
 Résumé: Comment installer le logiciel Bitcoin sur macOS, et synchroniser la blockchain .
