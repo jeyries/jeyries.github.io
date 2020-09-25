@@ -26,9 +26,11 @@ Vous avez envoyé des fonds à une adresse de réception de Bitcoin Core. Malheu
 - installer un nouveau portefeuille, par exemple Electrum
 - récupérer une adresse de réception de votre nouveau portefeuille
 
+Dans mon cas: `bc1q86dhxl3xfuy4ag2zcz7wercud9lp63t5crhp8m`
+
 ## Recupérez les infos de la précédente transaction
 
-- récupérer l'adresse sur laquelle se trouvent les fonds dans l'ancien portefeuille
+Récupérez l'adresse sur laquelle se trouvent les fonds dans l'ancien portefeuille
 
 Dans mon cas: `bc1q0f0elkl5q7njxp67maja63jpmgds6s67u3zg0w`
 
@@ -41,8 +43,9 @@ et la transaction:
 
 - notez le montant de bitcoin que vous voulez transférer
 - examinez la transaction
-- récuperez "vout", c'est l'indice de la sortie qui concerne votre adresse
-- récuperez le "scriptPubKey", c'est le "Pkscript" en hexa
+- récuperez "txid", c'est le transaction id - "Hachage" sur blockchain.com
+- récuperez "vout", c'est l'indice de la sortie qui concerne votre adresse - "Indice" sur blockchain.com
+- récuperez le "scriptPubKey", c'est le "Pkscript" sur blockchain.com, en mode hexa.
 
 ## Estimez les frais de transaction
 
@@ -141,6 +144,6 @@ Collez la chaîne hexadécimale et cliquez sur "Envoyer la transaction"
 
 Vous devriez alors voir une nouvelle transaction entrante dans votre nouveau portefeuille.
 
-
+## 💵🥳💵 Profitez ! 💵🥳💵
 
 
