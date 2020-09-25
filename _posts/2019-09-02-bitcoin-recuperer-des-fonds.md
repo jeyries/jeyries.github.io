@@ -29,10 +29,20 @@ Vous avez envoyé des fonds à une adresse de réception de Bitcoin Core. Malheu
 ## Recupérez les infos de la précédente transaction
 
 - récupérer l'adresse sur laquelle se trouvent les fonds dans l'ancien portefeuille
+
+Dans mon cas: `bc1q0f0elkl5q7njxp67maja63jpmgds6s67u3zg0w`
+
 - récupérer la transaction qui a amené les fonds - par exemple en faisant une recherche sur le site [blockchain.com](https://www.blockchain.com/)
+
+Dans mon cas, voici l'adresse de départ: [https://www.blockchain.com/fr/btc/address/bc1q0f0elkl5q7njxp67maja63jpmgds6s67u3zg0w](https://www.blockchain.com/fr/btc/address/bc1q0f0elkl5q7njxp67maja63jpmgds6s67u3zg0w)
+
+et la transaction:
+[https://www.blockchain.com/btc/tx/03a9b2ff64f52b298927ed0d7ad6aa21fc4952a0954177f3eb5a6fa953df78d6](https://www.blockchain.com/btc/tx/03a9b2ff64f52b298927ed0d7ad6aa21fc4952a0954177f3eb5a6fa953df78d6)
+
 - notez le montant de bitcoin que vous voulez transférer
-- examinez la transaction - avec l'api https://insight.bitpay.com/api/tx/<txid> - txid est votre transaction id
-- récuperez le "vout" et le "scriptPubKey" qui correspondent à votre adresse de réception, par exemple en regardant les montants en bitcoin.
+- examinez la transaction
+- récuperez "vout", c'est l'indice de la sortie qui concerne votre adresse
+- récuperez le "scriptPubKey", c'est le "Pkscript" en hexa
 
 ## Estimez les frais de transaction
 
