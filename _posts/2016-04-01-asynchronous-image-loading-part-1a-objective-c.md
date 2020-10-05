@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "How to load images asynchronously ? - UIKit in Objective-C using ReactiveCocoa and associated objects"
+title: "How to load images asynchronously ? - UIKit in Objective-C using ReactiveCocoa"
 date: 2016-04-01
 ---
 
-Summary: How to load images asynchronously ? - UIKit in Objective-C using ReactiveCocoa and associated objects
+Summary: How to load images asynchronously ? - UIKit in Objective-C using ReactiveCocoa
 
 # Description
 
-How to load images asynchronously on iOS ? Here is a way to do this with UIKit in Objective-C using ReactiveCocoa and associated objects.
+How to load images asynchronously on iOS ? Here is a way to do this with UIKit in Objective-C using ReactiveCocoa 
 
 Note: I wrote this code in 2016 for an interview with a company. This is only for educational purpose.
 
@@ -18,7 +18,7 @@ Note: I wrote this code in 2016 for an interview with a company. This is only fo
 
 # DZRImageManager.h
 
-The header is pretty simple. We hide all the internal of this class and there is only 2 methods. 
+The header is pretty simple. We hide all the internal of this class and there is only 2 public methods. 
 
 - `sharedInstance`: This property return the shared instance of this singleton.
 - `fetch`: this method returns the result of fetching the image at the provided url
