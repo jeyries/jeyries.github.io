@@ -8,8 +8,7 @@ Résumé: Cette version permet de charger une image de manière asynchrone depui
 
 # Description
 
-L'implementation repose sur `URLSession` pour le téléchargement et sur `NSCache` pour cacher les images caching decoded images. De plus, un niveau de cache supplémentaire `NSURLCache` sert à cacher les réponses du réseau.
-
+L'implementation repose sur `URLSession` pour le téléchargement et sur `NSCache` pour cacher les images caching decoded images. De plus, un niveau de cache supplémentaire `URLCache` sert à cacher les réponses du réseau.
 
 # Closure
 
