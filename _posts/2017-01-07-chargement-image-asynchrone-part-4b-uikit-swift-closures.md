@@ -4,7 +4,7 @@ title: "Comment charger une image de manière asynchrone ? - avec des associated
 date: 2017-01-07
 ---
 
-Résumé: On rajoute une extension sur `UIImageView` afin decharger de manière asynchrone une image. Pour cela, on va utiliser les associated objects.
+Résumé: On rajoute une extension sur `UIImageView` afin de charger de manière asynchrone une image. Pour cela, on va utiliser les associated objects.
 
 
 # Description
