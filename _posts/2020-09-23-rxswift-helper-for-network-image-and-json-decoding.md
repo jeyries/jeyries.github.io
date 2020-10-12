@@ -20,8 +20,8 @@ These operations can benefit from being performed asynchronously with the help o
 
 The helper is made of 3 building blocks:
 
-- `NetworkHelper.download`: takes an `URL` and produce a `Single<Data>`
-- `NetworkHelper.decode`: takes some `Data` and produce a `Single<T>` where `T` conforms to `Decodable`
+- `URLSession.download`: takes an `URL` and produce a `Single<Data>`
+- `DecodeHelper.decode`: takes some `Data` and produce a `Single<T>` where `T` conforms to `Decodable`
 - `ImageHelper.decode`: takes some `Data` and produce a `Single<UIImage>`
 
 These building blocks can be combined with `flatMap`, like below :
@@ -32,8 +32,8 @@ class RandomUserService: RandomUserServiceProtocol {
     
     func contentObservable() -> Single<RandomUserAPI.Content> {
         
-        return NetworkHelper.download(url: RandomUserAPI.url)
-            .flatMap( NetworkHelper.decode )
+        return URLSession.shared.download(url: RandomUserAPI.url)
+            .flatMap( DecodeHelper.decode )
     }
     
     
@@ -41,18 +41,22 @@ class RandomUserService: RandomUserServiceProtocol {
 
 ```
 
+# URLSession+RxSwift.swift
 
+This extension will help for doing network calls with RxSwift.
 
-# NetworkHelper.swift
+{% gist 7be2d1f465711b7fa736a113a4452631 %}
 
-This will help for doing network calls with RxSwift.
+# DecodeHelper.swift
 
-{% gist a86a04fa0aa653bb6699f41411c2e91c %}
+This module will help for doing JSON decode in RxSwift.
+
+{% gist 25674dd81ab5315b460bf76f5dec24d2 %}
 
 # ImageHelper.swift
 
 This will help for doing image decode with RxSwift.
 
-{% gist ca57b926f43709d467bc36172578116d %}
+{% gist d3db83e9aca95163655f8f804ba0721c %}
 
 
