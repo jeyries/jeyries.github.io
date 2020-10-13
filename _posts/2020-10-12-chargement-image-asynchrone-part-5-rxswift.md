@@ -12,7 +12,7 @@ On utilise pour cela les helpers définis dans mon post précédent: [A RxSwift 
 
 L'operation de chargement des données depuis le réseau et celle de décodage en tâche de fond sont combinées à l'aide de l'opérateur `flatMap`.
 
-L'implementation repose sur `URLSession` pour le téléchargement et sur `NSCache` pour cacher les images caching decoded images. De plus, un niveau de cache supplémentaire `URLCache` sert à cacher les réponses du réseau.
+L'implementation repose sur `URLSession` pour le téléchargement et sur `NSCache` pour cacher les images. De plus, un niveau de cache supplémentaire `URLCache` sert à cacher les réponses du réseau.
 
 # AsyncImageLoader.swift
 
