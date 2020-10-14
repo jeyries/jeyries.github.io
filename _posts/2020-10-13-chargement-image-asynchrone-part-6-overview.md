@@ -16,9 +16,9 @@ Par exemple, j'utilise personnellement à cet effet le framework [KingFisher](ht
 
 Cependant, certains éditeurs prefèrent éviter des dépendances vers des frameworks externes. Ce peut être une bonne raison pour mettre au point sa propre version du chargement d'image asynchrone. 
 
-Par ailleurs, cela fait une bonne question pour un entretien en vue d'embaucher un développeur iOS . J'ai moi-même eu cette question plus d'une fois depuis 10 ans que je fais du développement iOS :-)
+Par ailleurs, cela fait une bonne question pour un entretien en vue d'embaucher un développeur iOS . J'ai moi-même vu cette question sortir plus d'une fois depuis 10 ans que je fais du développement iOS :-)
 
-A ce sujet, je tiens à féliciter les compagnies comme [Zenly](https://zen.ly) qui joueunt fair-play en indemnisant les candidats pour passer du temps à coder les problèmes demandés en entretien. Chapeau !
+A ce sujet, je tiens à féliciter les compagnies comme [Zenly](https://zen.ly) qui jouent fair-play en indemnisant les candidats pour passer du temps à coder les problèmes demandés en entretien. Chapeau !
 
 # Vue d'ensemble 
 
