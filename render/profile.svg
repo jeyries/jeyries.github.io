@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256">
+
+    <defs>
+        <clipPath id="icon-clip">
+            <rect x="0" y="0" width="256" height="256" rx="128" ry="128" />
+        </clipPath>
+    </defs> 
+
+    <g transform="translate(128 128) scale(1.0) translate(-128 -128)">
+        <g clip-path="url(#icon-clip)">
+            <image href="portrait400.jpg" x="0" y="0" width="256" height="256"/>
+        </g>
+    </g>
+ 
+</svg>

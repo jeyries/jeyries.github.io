@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650">
+
+    <rect x="0" y="0" width="900" height="650" fill="#D5DD58" />
+
+    <defs>
+        <clipPath id="icon-clip">
+            <rect x="0" y="0" width="1024" height="1024" rx="100" ry="100" />
+        </clipPath>
+    </defs> 
+
+    <g transform="translate(450 325) scale(0.4) translate(-512 -512)">
+        <g clip-path="url(#icon-clip)">
+            <image href="temp/tf1.png" x="0" y="0" width="1024" height="1024"/>
+        </g>
+    </g>
+ 
+</svg>

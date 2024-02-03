@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "jeyries-2024"
+version = "0.1.0"
+description = ""
+authors = ["Julien Eyriès <julien@eyries.fr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+CairoSVG = "^2.7.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

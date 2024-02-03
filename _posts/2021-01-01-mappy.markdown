@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 2
+date: 2021-01-01
+img: mappy.webp
+alt: image-alt
+project-date: 2021
+client: Mappy
+category: iOS Developer
+description: "I developed and packaged a Map and Navigation SDK derived from the Mappy codebase and offered support to external customers. This SDK utilizes the MapBox library."
+---
+
+## 2021 - iOS Developer - Mappy
+
+I developed and packaged a Map and Navigation SDK derived from the Mappy codebase and offered support to external customers. This SDK utilizes the MapBox library.
+
