@@ -5,21 +5,22 @@ date: 2022-01-01
 img: tf1.webp
 alt: image-alt
 project-date: From 2022 to 2023 
-client: e-TF1
+client: TF1
 category: iOS Full Stack Developer
-description: "I have enhanced and sustained the Player SDK, a crucial component that orchestrates video streaming, manages access permissions, gauges audience engagement, tracks user analytics, and integrates advertisements. This SDK is incorporated into three applications owned by the TF1 group."
+description: "I enhanced and maintained the Player SDK, a critical component that orchestrates video streaming, manages access permissions, measures viewer engagement, tracks user analytics, and integrates advertising."
 ---
 
-## From 2022 to 2023 - iOS Full Stack Developer - e-TF1
+## From 2022 to 2023 - iOS Full Stack Developer at TF1
 
-I have enhanced and sustained the Player SDK, a crucial component that orchestrates video streaming, manages access permissions, gauges audience engagement, tracks user analytics, and integrates advertisements. This SDK is incorporated into three applications owned by the TF1 group: MyTF1, TFOU, and TF1 Info.
+I enhanced and maintained the Player SDK, a critical component that orchestrates video streaming, manages access permissions, measures viewer engagement, tracks user analytics, and integrates advertising.
+This SDK is integrated into three applications owned by the TF1 Group: TF1+, TFOU and TF1 Info.
 
-Key technical advancements include:
-* Transitioning from storyboard-based layouts to entirely code-based UIs with UIKit
-* Adding support for Apple TV
-* Implementing JWT token-based authentication
-* Utilizing GraphQL to fetch video metadata
+Key technical advances include:
+* Moving from storyboard-based layouts to fully code-based UIs with UIKit
+* Added support for Apple TV
+* Implementation of JWT token-based authentication
+* Using GraphQL to retrieve video metadata
 * Switching dependency management from CocoaPods to Swift Package Manager
 * Replacing a custom RxSwift implementation with Apple's Combine framework
-* Developing a backend in Go for user metrics, which includes routing data to Kafka and using Grafana for real-time analytics
+* Developing a user metrics backend in Go, including routing data to Kafka and using Grafana for real-time analytics
 
