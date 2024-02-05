@@ -7,14 +7,14 @@ alt: image-alt
 project-date: 2019
 client: Unibet
 category: iOS Tech Lead
-description: "Together with two other iOS developers, we completely rebuilt Unibet sports betting application and switched to pure native Swift code."
+description: "Together with two other iOS developers, we completely rebuilt the Unibet sports betting application and switched to pure native Swift code."
 ---
 
 ## 2019 - iOS Tech Lead at Unibet
 
-Together with two other iOS developers, we completely rebuilt Unibet sports betting application and switched to pure native Swift code.
+Together with two other iOS developers, we completely rebuilt the Unibet sports betting application and switched to pure native Swift code.
 Technical aspects involved:
 * Implementing MVVM architecture using RxSwift and UIKit
-* Utilizing the coordinator pattern for navigation
-* Applying dependency injection for services integration
+* Using the coordinator pattern for navigation
+* Applying dependency injection for service integration
 

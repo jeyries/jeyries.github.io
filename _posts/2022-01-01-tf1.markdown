@@ -13,14 +13,14 @@ description: "I enhanced and maintained the Player SDK, a critical component tha
 ## From 2022 to 2023 - iOS Full Stack Developer at TF1
 
 I enhanced and maintained the Player SDK, a critical component that orchestrates video streaming, manages access permissions, measures viewer engagement, tracks user analytics, and integrates advertising.
-This SDK is integrated into three applications owned by the TF1 Group: TF1+, TFOU and TF1 Info.
+This SDK is integrated into three TF1 Group applications.
 
 Key technical advances include:
 * Moving from storyboard-based layouts to fully code-based UIs with UIKit
 * Added support for Apple TV
 * Implementation of JWT token-based authentication
-* Using GraphQL to retrieve video metadata
-* Switching dependency management from CocoaPods to Swift Package Manager
-* Replacing a custom RxSwift implementation with Apple's Combine framework
-* Developing a user metrics backend in Go, including routing data to Kafka and using Grafana for real-time analytics
+* Use of GraphQL to retrieve video metadata
+* Switch dependency management from CocoaPods to Swift Package Manager
+* Replace a custom RxSwift implementation with Apple's Combine framework
+* Maintaining a user metrics backend in Go, including routing data to Kafka and using Grafana for real-time analysis
 
