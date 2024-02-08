@@ -7,10 +7,5 @@ alt: image-alt
 project-date: 2021
 client: Mappy
 category: iOS Developer
-description: "Developed and packaged a map and navigation SDK derived from the Mappy codebase and provided support to external customers. This SDK uses the MapBox library."
+description: "Developed and packaged a map and navigation SDK derived from the Mappy codebase and provided support to external customers."
 ---
-
-## 2021 - iOS Developer - Mappy
-
-Developed and packaged a map and navigation SDK derived from the Mappy codebase and provided support to external customers. This SDK uses the MapBox library.
-

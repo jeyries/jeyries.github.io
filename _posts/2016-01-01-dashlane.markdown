@@ -7,13 +7,5 @@ alt: image-alt
 project-date: From 2016 to 2019
 client: Dashlane
 category: Senior Software Engineer
-description: "I primarily contributed to Dashlane as a developer for the iOS and macOS applications."
+description: "Contributed to Dashlane as a developer for the iOS and macOS applications."
 ---
-
-## From 2016 to 2019 - Senior Software Engineer at Dashlane
-
-I primarily contributed to Dashlane as a developer for the iOS and macOS applications. 
-My primary responsibilities included:
-* Transitioning the code base from Objective-C and C++ to Swift.
-* Refactoring and modernizing legacy code to a new Swift codebase.
-* Implementing modularization using frameworks for better code organization and reusability.
