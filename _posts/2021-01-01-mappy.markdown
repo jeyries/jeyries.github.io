@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 2021
 client: Mappy
 category: iOS Developer
-description: "Developed and packaged a map and navigation SDK derived from the Mappy codebase and provided support to external customers."
+description: "Extracted and packaged a map and navigation SDK derived from the Mappy codebase, then provided support to internal customers."
 ---

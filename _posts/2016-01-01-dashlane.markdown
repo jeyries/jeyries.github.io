@@ -7,5 +7,5 @@ alt: image-alt
 project-date: From 2016 to 2019
 client: Dashlane
 category: Senior Software Engineer
-description: "Contributed to Dashlane as a developer for the iOS and macOS applications."
+description: "Modernized the Dashlane iOS and macOS applications."
 ---

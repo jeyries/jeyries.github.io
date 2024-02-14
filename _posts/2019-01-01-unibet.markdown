@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 2019
 client: Unibet
 category: iOS Tech Lead
-description: "Together with two other iOS developers, we completely rebuilt the Unibet sports betting application and switched to pure native Swift code."
+description: "Together with two other iOS developers, we have completely rebuilt from scratch the Unibet sports betting application in native Swift code."
 ---
 

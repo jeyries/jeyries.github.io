@@ -7,6 +7,6 @@ alt: image-alt
 project-date: From 2022 to 2023 
 client: TF1
 category: iOS Full Stack Developer
-description: "Enhanced and maintained the Player SDK, a critical component that orchestrates video streaming, manages access permissions, measures viewer engagement, tracks user analytics, and integrates advertising. This SDK is integrated into three TF1 Group applications."
+description: "Modernized and improved the robustness of the Player SDK, a critical component that orchestrates video streaming, manages access permissions, measures viewer engagement, tracks user analytics, and integrates advertising. This SDK is integrated into three TF1 Group applications."
 ---
 
