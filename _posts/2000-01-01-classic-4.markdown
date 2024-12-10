@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: connect4
 date: 2000-01-01
 img: connect4.webp
 alt: image-alt

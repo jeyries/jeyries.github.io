@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 5
+modal-id: calculator
 date: 2000-01-02
 img: calculator.webp
 alt: image-alt

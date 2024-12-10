@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: tf1
 date: 2022-01-01
 img: tf1.webp
 alt: image-alt
