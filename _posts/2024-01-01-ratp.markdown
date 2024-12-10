@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2024-01-01
+img: ratp.webp
+alt: image-alt
+project-date: 2024
+client: RATP Smart Systems
+category: iOS Developer
+description: "Migration of passenger information from the Bonjour RATP application to an OpenAPI backend"
+---
+

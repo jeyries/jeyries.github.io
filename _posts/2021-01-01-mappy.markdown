@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 2021
 client: Mappy
 category: iOS Developer
-description: "Extracted and packaged a map and navigation SDK derived from the Mappy codebase, then provided support to internal customers."
+description: "Extracted mapping and navigation SDK from Mappy code base, then provided support to RATP Smart Systems."
 ---

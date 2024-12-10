@@ -25,10 +25,10 @@ def generate_cairosvg(width, svg, png):
 
 ####
 
-render_dir = Path("render")
+render_dir = Path("_render")
 img_dir = Path("img")
 
-names = ["tf1", "mappy", "unibet", "dashlane", "calculator", "connect4"]
+names = ["ratp", "tf1", "mappy", "unibet", "dashlane", "calculator", "connect4"]
 for name in names:
     
     img = Image.open(render_dir / f"{name}.webp")

@@ -1,0 +1,6 @@
+
+bundle exec jekyll serve
+
+poetry shell
+poetry install --no-root
+python _render/render.py
